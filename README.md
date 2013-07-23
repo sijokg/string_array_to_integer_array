@@ -1,6 +1,6 @@
 # StringArrayToIntegerArray
 
-TODO: Write a gem description
+Convert a string array to integer array
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+StringArrayToIntegerArray.convert(['1', '2'])
 
 ## Contributing
 
